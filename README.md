@@ -27,7 +27,7 @@ To get a local copy up and running follow these setup steps.
 
 ## Live
 
-- Link here: [Live](https://yazino12.github.io/awesome-books)
+- Link here: [Live](https://fahdrahali.github.io/awesome-books/)
 
 ## 🤝 Contributing
 
