@@ -2,7 +2,6 @@ import { DateTime } from './luxon.js';
 
 const displayDate = () => {
   const dateElement = document.querySelector('.date');
-
   const now = DateTime.now();
   const yearHourMinSecOption = {
     year: 'numeric',
