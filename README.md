@@ -1,6 +1,6 @@
 # Awesome Books Collection
 
-> A "Awesome-Books" is a tool that display your books. and it allows you to add and remove books from the list.
+> An "Awesome-Books" is a tool that displays your books. and it allows you to add and remove books from the list.
 
 ## Getting Started
 
