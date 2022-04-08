@@ -1,10 +1,13 @@
 # Awesome Books Collection
 
-> A basic website that allows users to add/remove books from a list.
+> A "Awesome-Books" is a tool that display your books. and it allows you to add and remove books from the list.
 
 ## Getting Started
 
-To get a local copy up and running follow these setup steps.
+To get a local copy up and running follow these simple example steps.
+
+- clone the project: `git clone https://github.com/fahdrahali/awesome-books.git`
+- install dependencices : `npm install`
 
 **Setup**
 
